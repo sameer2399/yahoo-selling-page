@@ -1,0 +1,60 @@
+.container{
+    padding-top: 40px;
+}
+
+.me{
+    margin-left: 100px;
+}
+
+.me1
+{
+    padding-left: 55px;
+}
+
+a:hover{
+    background: darkgrey;
+    }
+
+a{
+    padding-left: 45px;
+    padding-right: 45px;
+    width: 100%;
+}
+
+.me2{
+    text-align: center;
+    background-color: transparent;
+}
+
+.me2 > h1{
+    padding-top: 65px;
+}
+
+.me2 > p{
+    padding-top: 20px;
+}
+
+.me3{
+    padding-top: 20px;
+}
+
+.btn{
+    font-size: 22px;
+}
+
+.me4{
+    padding-top: 80px;
+}
+
+.col-lg-4{
+    text-align: center;
+}
+
+footer{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.me5{
+    padding:0 0 0 0 ;
+}
